@@ -11,10 +11,10 @@ Once everyone changes over to using the Configuration Assistant under z/OSMF tho
 ## Content
 Examples include:
 * TCPIP.PROFILE (with the port reservations I usually run)
-** two versions -- monolithic and INCLUDE-based
+  * two versions -- monolithic and INCLUDE-based
 * OMPROUTE.CONF to correspond
 * SNMPD configuration files
 * Policy Agent configuration
-** sample TN3270 and FTPS configurations
+  * sample TN3270 and FTPS configurations
 
 Supporting configuration files such as ENVVARS and others will be included also.
