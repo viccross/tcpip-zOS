@@ -1,0 +1,9 @@
+* SYS1.VTAMLST(ATCCON00)
+* ----------------------
+* Incomplete until this comment is removed!
+*
+IBMTGPS,
+LCLTERM,
+A00TCP,
+XCAHPRIP,
+SW0PUS
