@@ -1,5 +1,5 @@
-# tcpip-zOS
-My standard configuration files for setting up TCP/IP and services on z/OS Communications Server.
+# zOS-files
+My standard configuration files for setting up services on z/OS (such as Communications Server).
 
 ## Why?
 I find myself often having to create a new configuration on a new system, or consulting on how to set up something on z/CS (usually OSPF or Policy Agent these days). Rather than creating from scratch (using increasingly rusty memory) or from pages on the Net, it seemed like a good idea to put them somewhere accessible.
