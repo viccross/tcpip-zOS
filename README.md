@@ -9,7 +9,7 @@ Inspired by https://github.com/davewongillies/dot-files :)
 Once everyone changes over to using the Configuration Assistant under z/OSMF though, this will possibly become obsolete though!
 
 ## Content
-Examples include:
+TCP/IP examples include:
 * TCPIP.PROFILE (with the port reservations I usually run)
   * two versions -- monolithic and INCLUDE-based
 * OMPROUTE.CONF to correspond
@@ -18,3 +18,10 @@ Examples include:
   * sample TN3270 and FTPS configurations
 
 Supporting configuration files such as ENVVARS and others will be included also.
+
+SNA Services
+Examples include my start list (my common VTAMOPTS), as well as major nodes for the following:
+* XCA for Enterprise Extender (MEDIUM=HPRIP)
+* Switched PU definitions for DLUR-supported PUT2)
+* Switched PU definitions for PUT2.1 (for those that don't want DYNPU=YES)
+* possibly others
